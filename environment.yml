@@ -1,0 +1,5 @@
+name: transp
+channels:
+  - conda-forge
+dependencies:
+  - eigen
